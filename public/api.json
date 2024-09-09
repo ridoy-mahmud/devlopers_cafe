@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/WxBcG6k/photo-1499750310107-5fef28a66643.jpg",
+        "author": "John Doe",
+        "title": "Exploring the Future of AI",
+        "img": "https://example.com/images/ai_future.jpg",
+        "posted": "2024-09-02",
+        "reading_time": "8 min",
+        "hashtags": [
+            "AI",
+            "Technology",
+            "Future"
+        ]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co/3vxgx3p/photo-1483058712412-4245e9b90334.jpg",
+        "author": "Jane Smith",
+        "title": "A Beginner's Guide to Tailwind CSS",
+        "img": "https://example.com/images/tailwind_guide.jpg",
+        "posted": "2024-08-30",
+        "reading_time": "6 min",
+        "hashtags": [
+            "CSS",
+            "Tailwind",
+            "Web Development"
+        ]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co/rMzJGps/photo-1485988412941-77a35537dae4.jpg",
+        "author": "Alice Johnson",
+        "title": "Top 10 JavaScript Libraries in 2024",
+        "img": "https://example.com/images/js_libraries.jpg",
+        "posted": "2024-08-25",
+        "reading_time": "10 min",
+        "hashtags": [
+            "JavaScript",
+            "Web Development",
+            "Libraries"
+        ]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co/5rKn1PM/photo-1516251193007-45ef944ab0c6.jpg",
+        "author": "Bob Lee",
+        "title": "Understanding Responsive Design with Daisy UI",
+        "img": "https://example.com/images/responsive_design.jpg",
+        "posted": "2024-08-20",
+        "reading_time": "7 min",
+        "hashtags": [
+            "Responsive Design",
+            "CSS",
+            "Daisy UI"
+        ]
+    },
+    {
+        "id": 5,
+        "cover": "https://i.ibb.co/vJS4Vhc/photo-1522202176988-66273c2fd55f.jpg",
+        "author": "Emily Davis",
+        "title": "The Impact of Open Source on Software Development",
+        "img": "https://example.com/images/open_source.jpg",
+        "posted": "2024-08-15",
+        "reading_time": "12 min",
+        "hashtags": [
+            "Open Source",
+            "Software Development",
+            "Community"
+        ]
+    }
+]
